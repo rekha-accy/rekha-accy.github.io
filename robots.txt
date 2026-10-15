@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rekha.github.io/al-folio/sitemap.xml
+Sitemap: https://rekha-accy.github.io/al-folio/sitemap.xml
